@@ -84,6 +84,12 @@ A curated list of awesome travel resources to help you build the next travel app
 | RoadGoat      | Content API for 4.3M cities, towns, countries, & neighborhoods | [Go!](https://www.roadgoat.com/business/cities-api)                |
 | Lonely Planet | Editorial content API                                          | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
 
+### Travel Safety / Country Risk
+
+| API     | Description                                                                                                                            | Link                                  |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Warnely | Composite travel-safety scores for 180 countries (UK FCDO + US State + GPI + WGI + live incident wire). OpenAPI 3.1 spec, CC BY 4.0. | [Go!](https://warnely.com/developers) |
+
 ### Points of Interest (POIs) Content
 
 | API           | Description             | Link                                                                                                       |
