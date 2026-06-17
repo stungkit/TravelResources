@@ -83,6 +83,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | ------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
 | RoadGoat      | Content API for 4.3M cities, towns, countries, & neighborhoods | [Go!](https://www.roadgoat.com/business/cities-api)                |
 | Lonely Planet | Editorial content API                                          | [Go!](https://docs.dev.content-api.lonelyplanet.com/#introduction) |
+| Superhighway  | Web search, news, scrape & deep-research API for AI travel agents. Research destinations, find attractions, pull advisories. MCP server, pay-per-call. | [Go!](https://superhighway.walls.sh) |
 
 ### Travel Safety / Country Risk
 
