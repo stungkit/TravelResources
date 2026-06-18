@@ -24,6 +24,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Trawex         | Trawex Universal Flight API      | [Go!](https://www.trawex.com/flight-api.php)                                                    |
 | ADS-B Exchange | ADS-B Exchange API               | [Go!](https://www.adsbexchange.com/data/)                                                       |
 | Aviation Edge  | Global Database and API          | [Go!](https://aviation-edge.com/)                                                               |
+| Ignav          | Live flight prices and booking links for AI agents and travel apps | [Go!](https://ignav.com)                                                                        |
 
 | APIbase | Unified flight API for AI agents: Amadeus + Sabre GDS wrapped in MCP. Search, price, status, routes. | [Go!](https://apibase.pro) |
 ### Flight data
