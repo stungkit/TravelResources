@@ -184,6 +184,7 @@ A curated list of awesome travel resources to help you build the next travel app
 | Windy API              | Weather forecast API           | [Go!](https://api.windy.com/)                         |
 | Sunset and sunrise API | Sunset and Sunrise Times API   | [Go!](http://sunrise-sunset.org/api)                  |
 | Weather & Forecast API | OpenWeather API                | [Go!](https://openweathermap.org/api)                 |
+| Beach Day              | Beach and beach-condition data for planning beach days | [Go!](https://beachdayapi.com) |
 | TransportAPI           | Transport data and development | [Go!](https://developer.transportapi.com/)            |
 
 ## Star History
